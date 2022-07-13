@@ -1,6 +1,6 @@
 header{
     position: absolute;
-    width: 697vh;
+    width: 697px;
     height: 49px;
     
     background: #FFFFFF;
@@ -63,10 +63,32 @@ color: #AAAAAA;
     
     
     }
-    #retangulo_3{
-       flex-direction: row;
-        width: 608vw;
-        height: 259vh;
+#retangulo_3{
+    
+     width: 608vw;
+     height: 259vh;
+     margin-left: 44px;     
         
+    }
+#retangulo_6{
+
+margin-top: 37px;
+width: 256px;
+height: 144px;
+ 
+       
+    }
+ #retangulo_7{
+    margin-left: 352px;  
+    margin-top: -143px;
+    
+width: 256px;
+height: 144px;
+   
+
+width: 256px;
+height: 144px;
+
+
         
     }
